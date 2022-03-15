@@ -4,8 +4,6 @@ SaaS B2C\B2B сервис анализа NFT работ на предмет ун
 
 SaaS B2C\B2B service for analyzing NFT works for uniqueness, degree of similarity to other works indexed in the database, analysis for plagiarism and passing off other works as your own. (The MVP of the project was done as part of the Definition Hackathon in the Rarible track of the SecurityBand team). The project used algorithms of clustering, fuzzy hash (ssdeep), perceptual hash, avarage hash (MeanHash). 
 
-Translated with www.DeepL.com/Translator (free version)
-
 ### Project presentation \ Презентация проекта: https://cloud.mail.ru/public/qsDm/wm1BYYWdu. 
 ### Demo project \ Демо проекта: https://youtu.be/EnmbVleOJwQ
 
